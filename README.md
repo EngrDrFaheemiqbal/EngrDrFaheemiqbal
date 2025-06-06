@@ -79,7 +79,7 @@ Spatial carbon accounting frameworks to support carbon offset projects, leveragi
 
 Land Segmentation & Suitability Analysis
 GIS-based tools for landscape segmentation and suitability assessments for solar, wind, agriculture, and other land uses.
-🔗 View Dashboard 
+🔗 https://engrdrfaheemiqbal.github.io/Rangeland/ 
 ---
 
 ## 🔭 Projects on GitHub
