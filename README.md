@@ -64,13 +64,13 @@ My research spans UAV and satellite data fusion, time-series analytics, and adva
 🚀 Projects
 Rangeland Pasture Management
 Advanced spatial workflows and models for monitoring vegetation health, forage quality, and grazing patterns using satellite and drone data.
-🔗 View Dashboard 
+🔗 (https://engrdrfaheemiqbal.github.io/Rangeland/)
 Soil Mapping & Climate Prediction
 Integrated remote sensing and climate datasets to assess soil properties and forecast climate impacts on land use and agriculture.
-🔗 View Dashboard 
+🔗 https://engrdrfaheemiqbal.github.io/Rangeland/
 Grazing Zone Manager
 A decision support system optimizing grazing allocation based on pasture conditions and animal movement patterns using GIS analysis.
-🔗 View Dashboard 
+🔗 https://engrdrfaheemiqbal.github.io/Rangeland/ 
 Flood Modelling
 Hydrological flood risk simulation tools combining terrain, rainfall, and land use data for infrastructure and disaster planning.
 
